@@ -1,6 +1,3 @@
-# README.md
-
-```
 # pdf_cleaner.py
 
 이 스크립트는 PDF 파일의 작은 블롭(노이즈)을 제거하여 깨끗한 PDF로 저장합니다.
@@ -48,4 +45,3 @@ Linux: apt install poppler-utils
 ## 문의
 
 오류 발생 시, 사용법과 패키지 설치 여부를 확인한 후 이슈를 남겨주세요.
-```
