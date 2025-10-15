@@ -1,7 +1,6 @@
-# README.md
+# pdf_cleaner.py
 
 ```
-# pdf_cleaner.py
 
 이 스크립트는 PDF 파일의 작은 블롭(노이즈)을 제거하여 깨끗한 PDF로 저장합니다.
 
